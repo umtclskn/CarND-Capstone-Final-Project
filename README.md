@@ -88,3 +88,6 @@ Specific to these libraries, the simulator grader and Carla use the following:
 | OpenMP | N/A | N/A |
 
 We are working on a fix to line up the OpenCV versions between the two.
+
+
+[Video Link](https://www.youtube.com/watch?v=nhoPxAL-Bm0&t=285s) 
